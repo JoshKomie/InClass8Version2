@@ -1,0 +1,6 @@
+program structure/logic
+database design
+database implementation
+database interaction
+GUI design
+GUI implementation
